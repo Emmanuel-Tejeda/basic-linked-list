@@ -1,4 +1,4 @@
-# basic-linked-list
+# Linked List
 Java Project containing a basic linked list
 
 Meant to be used in either Eclipse or IntelliJ
